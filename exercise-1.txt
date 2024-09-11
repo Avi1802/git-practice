@@ -5,3 +5,4 @@
 </head>
 <body>
 "this is a new line for the git example"
+</body>
